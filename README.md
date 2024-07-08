@@ -1,7 +1,7 @@
 # metacrafters_AVAX-PROOF_Project_Module_1
 This report contains project assessment code for the AVAX PROOF course under metacrafter.
 
-#Build Your First Subnet
+# Build Your First Subnet
 Installation
 
 install the latest Avalanche-CLI binary is by running the install script:
